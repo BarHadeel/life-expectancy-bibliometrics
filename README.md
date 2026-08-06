@@ -20,6 +20,12 @@ publications indexed in the Web of Science Core Collection, 1943–2024.
   Business Economics
 - **Result:** 2,506 documents
 
+- **Note on citation counts:** the archived export was captured a few days after
+  the analysis snapshot used in the paper (56,449 vs. 56,095 total WoS Core
+  citations). The paper's figures are authoritative for the February 2025
+  analysis date; citation counts in these files reflect normal accrual and
+  retrospective indexing in the intervening days.
+
 ## Search validation (August 2026)
 
 **Query sensitivity.** The base query was compared against broader variants under
