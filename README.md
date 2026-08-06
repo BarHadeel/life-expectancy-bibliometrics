@@ -11,7 +11,7 @@ publications indexed in the Web of Science Core Collection, 1943–2024.
 - `sample100_to_screen.csv` — random sample of 100 added records used for relevance screening
 - `scopus_only_records.csv` — the 1,295 records retrieved only by the Scopus search
 
-## Corpus definition
+## Database definition
 
 - **Database:** Web of Science Core Collection (searched February 2025)
 - **Query:** Topic (TS) = `"Life* Expectanc*"`
